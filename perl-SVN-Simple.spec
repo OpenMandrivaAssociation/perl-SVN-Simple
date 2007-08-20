@@ -2,7 +2,7 @@
 
 Name:		perl-%{realname}
 Version:        0.27
-Release:        %mkrel 2
+Release:        %mkrel 3
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:        This module is a simple interface to subversion's editor interface
