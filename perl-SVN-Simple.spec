@@ -43,18 +43,3 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorlib}/*
 %{_mandir}/man3/*
 
-
-* Thu Feb 24 2005 Rafael Garcia-Suarez <rgarciasuarez@mandrakesoft.com> 0.27-1mdk
-- 0.27
-
-* Sat Feb 05 2005 Sylvie Terjan <erinmargault@mandrake.org> 0.26-2mdk
-- rebuild for new perl
-
-* Fri Nov 12 2004 Michael Scherer <misc@mandrake.org> 0.26-1mdk
-- New release 0.26
-
-* Sat Jun 05 2004 Michael Scherer <misc@mandrake.org> 0.25-2mdk 
-- BuildRequires
-
-* Fri Apr 02 2004 Michael Scherer <misc@mandrake.org> 0.25-1mdk 
-- First MandrakeSoft Package
