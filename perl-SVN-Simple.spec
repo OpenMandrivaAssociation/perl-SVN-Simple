@@ -8,7 +8,6 @@ Group:		Development/Perl
 Summary:        This module is a simple interface to subversion's editor interface
 Source0:        http://search.cpan.org/CPAN/authors/id/C/CL/CLKAO/%{realname}-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%{realname}/
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel perl-SVN
 #needed for testing
 BuildRequires:  subversion
