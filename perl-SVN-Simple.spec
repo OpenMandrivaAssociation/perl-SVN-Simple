@@ -5,7 +5,7 @@ Version:        0.27
 Release:        %mkrel 4
 License:	GPL or Artistic
 Group:		Development/Perl
-Summary:        This module is a simple interface to subversion's editor interface
+Summary:        Simple interface to subversion's editor interface
 Source0:        http://search.cpan.org/CPAN/authors/id/C/CL/CLKAO/%{realname}-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%{realname}/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
